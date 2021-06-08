@@ -6,11 +6,11 @@ It represents the very basic idea behind the neural network :
 ### CASE 1 : THREE INPUTS WITH SINGLE NEURON
 
 I1    W1
-  O------------\<br/>
-I2    W2        \ <br/>
-  O--------------O-------- OUTPUT<br/>
-I3    W3        /  \<br/>
-  O------------/   |<br/>
+  O------------\<br />
+I2    W2        \ <br />
+  O--------------O-------- OUTPUT<br />
+I3    W3        /  \<br />
+  O------------/   |<br />
                    B
                 
                 
